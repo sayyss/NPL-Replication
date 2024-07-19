@@ -2,6 +2,7 @@
 ### NPL Replication
 
 - Replicating Neural Probabilistic Language Model by Yoshua Bengio(https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- Code includes a plug and play model, automatically trains on a given text file using default hyperparameters(can be configured)
 
 ### Usage
 ```python
